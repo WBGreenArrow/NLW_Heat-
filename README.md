@@ -36,7 +36,7 @@ Uma aplicação feita com NodeJS, ReactJS e ReactNative, que utiliza a API do Gi
 
 Uma aplicação que lista e registra em tempo real, as mensagens cadastradas pelo usuario.
 
-Desenvolvido durante o evento #NLW-Heat da RocketSeat
+Desenvolvido durante o evento #NLW-Heat da RocketSeat.
 
 <br>
 <br>
