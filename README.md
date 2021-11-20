@@ -20,13 +20,13 @@ Uma aplicação feita com NodeJS, ReactJS e ReactNative, que utiliza a API do Gi
 
 <br>
 
-# 🎨 Telas da Aplicação Web
+# 🎨 Telas da Aplicação Web.
 
 <img src="./manipulae-music-screenshots.jpg">
 
 <br>
 
-# 🎨 Telas da Aplicação Mobile
+# 🎨 Telas da Aplicação Mobile.
 
 <img src="./manipulae-music-screenshots.jpg">
 
