@@ -32,7 +32,7 @@ Uma aplicação feita com NodeJS, ReactJS e ReactNative, que utiliza a API do Gi
 
 <br>
 
-# 📃 Sobre o projeto
+# 📃 Sobre o projeto.
 
 Uma aplicação que lista e registra em tempo real, as mensagens cadastradas pelo usuario.
 
